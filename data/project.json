@@ -19,82 +19,82 @@
     "tags": {
       "tagGroups": [
         {
-          "category": "Speaker",
+          "category": "speaker",
           "color": "#ADFEFF"
         },
         {
-          "category": "Sounds",
+          "category": "sounds",
           "color": "#C195DB"
         }
       ],
       "tags": [
         {
           "tag": " Instruments",
-          "category": "Sounds"
+          "category": "sounds"
         },
         {
           "tag": " Distortion",
-          "category": "Sounds"
+          "category": "sounds"
         },
         {
           "tag": " Singing",
-          "category": "Sounds"
+          "category": "sounds"
         },
         {
           "tag": " Games",
-          "category": "Sounds"
+          "category": "sounds"
         },
         {
           "tag": " Herbert Halpert",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Unknown",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Library of Congress",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Zora Neale Hurston",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Beatrice Lange",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Evelyn Werner",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Carita Doggett Corse",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Rolla Southworth",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " \tH. W. Stuckey",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Irene Jackson",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Alabama Singleton",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Maggie Fulton",
-          "category": "Speaker"
+          "category": "speaker"
         },
         {
           "tag": " Harold B. Hazelhurst",
-          "category": "Speaker"
+          "category": "speaker"
         }
       ]
     },
